@@ -1,0 +1,127 @@
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 700px;
+    height:370px;
+    background-color: #544F53
+
+    ;
+    margin: auto;
+
+}
+.photos-container{
+    width:600px;
+    height:200px;
+    display: flex;
+    justify-content: space-between;
+    /* align-content: space-between; */
+    align-items: center;
+
+}
+.houston-photo{
+    height: 140px;
+    width: 170px;
+
+}
+.newyork-photo{
+    height: 200px;
+    width: 140px;
+    margin-bottom: 20px;
+    
+}
+.boston-photo{
+    height: 150px;
+    width: 150px;
+    
+}
+.infos-container{
+    width:600px;
+    height: 90px;
+    display: flex;
+
+}
+h1{
+    text-transform: capitalize;
+    font-size: 19px;
+}
+p{
+    font-size: 15px;
+
+
+}
+.info{
+    height: 200px;
+    width: 200px;
+    padding:20px;
+
+}
+.logo-holder{
+    position: relative;
+
+
+}
+.logo{
+    height:15px;
+    width:15px;
+    background-color: #AB1F83;
+    position: absolute;
+    top:0px;
+    left: px;
+   
+}
+
+
+
+
+
+/* #photos-containter{
+    background-color: grey;
+    height: 400px;
+    width:900px;
+    display: flex;
+    margin:auto;
+    justify-content: space-around;
+    align-items: center;
+}
+.info{
+    width:200px;
+    height: 300px;
+ 
+    background-color: yellow;
+    
+}
+.image{
+    width: 150px;
+    height: 150px;
+
+
+
+
+}
+#new-york-photo{
+    box-sizing: border-box;
+    height: 250px;
+   vertical-align: middle;
+ 
+
+}
+#new-york-city{
+ margin-bottom:70px
+}
+#hoston{
+    background-color: red;
+}
+
+#boston{
+   
+    background-color: violet;
+}
+
+h1{
+    font-family: "Nunito Sans";
+    text-transform: capitalize;
+    font-size: 20px;
+  
+} */
